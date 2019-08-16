@@ -19,7 +19,7 @@ export default function PhotoGrid() {
       const [activeItem, setActiveItem] = useState({});
 
 
-let api = `https://api.nasa.gov/planetary/apod?api_key=rg8vomTgToxcqAVlRSGrnb0bVMuKhj3qO4571P4W&date=2011-09-08`
+let api = `https://api.nasa.gov/planetary/apod?api_key=rg8vomTgToxcqAVlRSGrnb0bVMuKhj3qO4571P4W&`
 
 
 
